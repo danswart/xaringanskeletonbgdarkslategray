@@ -1,0 +1,4 @@
+name: Xaringan Skeleton bg-darkslategray
+description: >
+   An Rmarkdown template that provides a skeleton Xaringan slide deck with darkslategray backgrounds.
+create_dir: FALSE
