@@ -1,0 +1,10 @@
+Package: xaringanskeletonbgdarkslategray
+Type: Package
+Title: Creates Skeleton Rmarkdown Xarington Template in RStudio for Slides with Darkslategray Backgrounds
+Version: 0.0.9
+Author: Dan Swart
+Maintainer: Dan Swart <dan@danswart.com>
+Description: Creates an Rmarkdown template for beginning new Xaringan slide deck.    Also creates new directory and the new slide deck is pre-populated with darkslategray backgrounds and nice text color choices.   
+License: MIT
+Encoding: UTF-8
+LazyData: true

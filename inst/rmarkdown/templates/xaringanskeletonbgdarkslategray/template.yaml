@@ -1,0 +1,4 @@
+name: Xaringan Skeleton bg-darkslategray
+description: >
+   Creates a Dropdown Rmarkdown template for use when creating a new Rmarkdown file for Xaringan slides that prepopulates with skeleton Xaringan slide deck with darkslategray backgrounds.
+create_dir: FALSE
